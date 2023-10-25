@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Credit-Card-App-React/static/css/main.840aef6f.chunk.css",
+    "main.js": "/Credit-Card-App-React/static/js/main.e90879e1.chunk.js",
+    "main.js.map": "/Credit-Card-App-React/static/js/main.e90879e1.chunk.js.map",
+    "runtime~main.js": "/Credit-Card-App-React/static/js/runtime~main.fc264dc4.js",
+    "runtime~main.js.map": "/Credit-Card-App-React/static/js/runtime~main.fc264dc4.js.map",
+    "static/js/2.52dd3d26.chunk.js": "/Credit-Card-App-React/static/js/2.52dd3d26.chunk.js",
+    "static/js/2.52dd3d26.chunk.js.map": "/Credit-Card-App-React/static/js/2.52dd3d26.chunk.js.map",
+    "static/js/3.937f6cc8.chunk.js": "/Credit-Card-App-React/static/js/3.937f6cc8.chunk.js",
+    "static/js/3.937f6cc8.chunk.js.map": "/Credit-Card-App-React/static/js/3.937f6cc8.chunk.js.map",
+    "index.html": "/Credit-Card-App-React/index.html",
+    "precache-manifest.af16816a56fbdf69084a82e1845d9808.js": "/Credit-Card-App-React/precache-manifest.af16816a56fbdf69084a82e1845d9808.js",
+    "service-worker.js": "/Credit-Card-App-React/service-worker.js",
+    "static/css/main.840aef6f.chunk.css.map": "/Credit-Card-App-React/static/css/main.840aef6f.chunk.css.map",
+    "static/media/color.png": "/Credit-Card-App-React/static/media/color.7f5f2c71.png",
+    "static/media/front.png": "/Credit-Card-App-React/static/media/front.ca4ac67c.png"
+  }
+}
